@@ -1,0 +1,112 @@
+.h {
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia;
+    font-size: 2.5rem;
+    color: #34495E;
+    margin-top: 20px;
+  }
+  
+  .secondh {
+    text-align: center;
+    font-weight: bold;
+    font-family: Tahoma, Georgia, sans-serif;
+    font-size: 2.2rem;
+    color: #34495E;
+    letter-spacing: 0.1rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px dashed lightgray; 
+  }
+  
+  p {
+    text-align: center;
+    color: #505E67;
+    font-family: Tahoma, Geneva, sans-serif;
+  }
+  
+   .cakes {
+      text-align: center;
+      color: #505E67;
+    }
+    
+    img {
+      display: block;
+      height: 30rem;
+      width: 40rem;
+      margin-right: auto;
+      margin-left: auto;
+      padding-bottom: 40px;
+    }
+  
+  .customerBox {
+    border: 2px lightgray outset;
+    border-top-color: lightgray;
+      border-top-style: outset;
+      border-top-width: 2px;
+      border-right-color: lightgray;
+      border-right-style: outset;
+      border-right-width: 2px;
+      border-bottom-color: lightgray;
+      border-bottom-style: outset;
+      border-bottom-width: 2px;
+      border-left-color: lightgray;
+      border-left-style: outset;
+      border-left-width: 2px;
+      border-image-source: initial;
+      border-image-slice: initial;
+      border-image-width: initial;
+      border-image-outset: initial;
+      border-image-repeat: initial;
+      width: 45%;
+      margin-bottom: 20px;
+      border-radius: 10px;
+    }
+  
+  .floatleft {
+    margin-left: 15%;
+    float: left;
+  }
+  
+  .customerBox h2{
+    font-size: 1.4rem;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px dashed lightgrey;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px;
+    color: #505E67;
+    
+  }
+  
+  .customerBox p {
+    padding: 10px 10px 10px 10px; 
+  }
+  
+  .customerBox h3 {
+    float: right;
+    padding-right: 15px;
+    color: #505E67;
+    font-style: italic;
+    font-family: Tahoma, Georgia, sans-serif;
+  }
+  
+  .floatright {
+    margin-right: 15%;
+    float: right;
+  }
+  
+  .floatlef {
+    margin-left: 15%;
+    float: left;
+  }
+  
+.foot1 {
+    clear: left;
+    color: black;
+  }
+  
+  
+  
+  
+  
